@@ -1,4 +1,4 @@
 # ECE484PinballDesignPiece(Multiball)
-Parker Murphy\n
+#Parker Murphy
 ECE 484
 Spring 2024
