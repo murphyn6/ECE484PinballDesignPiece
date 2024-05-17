@@ -4,4 +4,4 @@ ECE 484<br/>
 Spring 2024<br/>
 <br/>
 This Repository will contain the code, report, and additional information regarding the multiball design piece.<br/>
-This multiball design piece is a part of a larger pinball project that can be found here (insert full project github link when created)<br/>
+This multiball design piece is a part of a larger pinball project that can be found here https://github.com/murphyn6/ECE484PinballMachine<br/>
